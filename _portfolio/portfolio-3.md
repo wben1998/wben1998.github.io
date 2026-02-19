@@ -2,6 +2,7 @@
 title: "Apache Superset — Open Source Contribution"
 excerpt: "Contributed a UX fix to Superset table export behavior with a merged PR and linked issue."
 collection: portfolio
+date: 2025-12-08
 ---
 
 Contributed to Apache Superset by improving unclear table export behavior and proposing UI refinements.
