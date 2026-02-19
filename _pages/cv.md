@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="{{ base_path }}/files/Ben-J-Wang-CV.pdf" target="_blank" rel="noopener">Download CV as PDF</a>
+
 Education
 ======
 * **University of Toronto** — Honours Bachelor of Science (HBSc), Computer Science (Co-op) & Statistics
@@ -38,8 +40,8 @@ Industry experience
 Teaching experience
 ======
 * **Teaching Assistant, University of Toronto** (Jan 2024 – Present)
-  * [CSCA48](https://utsc.calendar.utoronto.ca/course/csca48h3): Winter 2024; Summer 2024 (Head TA); Winter 2025; Summer 2025 (Head TA)
-  * [CSCA08](https://utsc.calendar.utoronto.ca/course/csca08h3): Fall 2024; Fall 2025 (Head TA); Winter 2026 (Head TA)
+  * [CSCA48](https://utsc.calendar.utoronto.ca/course/csca48h3): Winter 2024; Summer 2024; Winter 2025; Summer 2025
+  * [CSCA08](https://utsc.calendar.utoronto.ca/course/csca08h3): Fall 2024; Fall 2025; Winter 2026
   * [CSCB09](https://utsc.calendar.utoronto.ca/course/cscb09h3): Winter 2025
   * Taught weekly tutorials and held weekly office hours
   * Graded tests and assignments for 3500+ students
