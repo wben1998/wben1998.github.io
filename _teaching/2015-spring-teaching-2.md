@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 2"
+title: "CSCA08 and CSCB09 — Teaching Assistant"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course support"
+permalink: /teaching/csca08-cscb09-teaching-assistant
+venue: "University of Toronto, Department of Computer and Mathematical Sciences"
+date: 2024-09-01
+location: "Toronto, ON, Canada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Supported the following offerings:
 
-Heading 1
-======
+- CSCA08: Fall 2024; Fall 2025 (Head TA); Winter 2026 (Head TA)
+- CSCB09: Winter 2025
 
-Heading 2
-======
-
-Heading 3
-======
+Responsibilities included teaching tutorials, office hours, grading, and course operations support.

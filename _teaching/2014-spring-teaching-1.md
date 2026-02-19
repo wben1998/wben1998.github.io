@@ -1,20 +1,18 @@
 ---
-title: "Teaching experience 1"
+title: "CSCA48 — Introduction to Computer Science II"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Teaching Assistant / Head TA"
+permalink: /teaching/csca48-introduction-to-computer-science-ii
+venue: "University of Toronto, Department of Computer and Mathematical Sciences"
+date: 2024-01-01
+location: "Toronto, ON, Canada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Served as TA and Head TA across multiple terms:
 
-Heading 1
-======
+- Winter 2024
+- Summer 2024 (Head TA)
+- Winter 2025
+- Summer 2025 (Head TA)
 
-Heading 2
-======
-
-Heading 3
-======
+Responsibilities included tutorials, office hours, grading, TA coordination, and automarking support at scale.

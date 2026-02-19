@@ -1,7 +1,15 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Acton Institute of Computer Science — Registration Portal"
+excerpt: "Built a registration portal supporting 100+ users with React, TypeScript, and Firestore."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Built an online registration portal supporting 100+ users.
+
+[Source Code](https://github.com/wben1998/AICS-Registration-Portal) / [Deployed Site](https://actoninstituteofcs.netlify.app/)
+
+Key contributions:
+
+- Implemented core product features using React, TypeScript, and Google Firestore
+- Participated in code review and pull request workflows on GitHub
+- Followed Scrum development practices and iterated based on client feedback
