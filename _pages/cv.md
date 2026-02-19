@@ -38,7 +38,7 @@ Industry experience
 Teaching experience
 ======
 * **Teaching Assistant, University of Toronto** (Jan 2024 – Present)
-  * CSCA48: Winter 2024; Summer 2024 (Head TA); Winter 2025; Summer 2025 (Head TA)
+  * [CSCA48](https://utsc.calendar.utoronto.ca/course/csca48h3): Winter 2024; Summer 2024 (Head TA); Winter 2025; Summer 2025 (Head TA)
   * [CSCA08](https://utsc.calendar.utoronto.ca/course/csca08h3): Fall 2024; Fall 2025 (Head TA); Winter 2026 (Head TA)
   * [CSCB09](https://utsc.calendar.utoronto.ca/course/cscb09h3): Winter 2025
   * Taught weekly tutorials and held weekly office hours
@@ -49,7 +49,7 @@ Teaching experience
 
 Research and scholarly activities
 ======
-* **UTSC Undergraduate Research Symposium (2025)**
+* **[UTSC Undergraduate Research Symposium (2025)](https://www.utsc.utoronto.ca/cms/events/cms-research-symposium-f25)**
   * *VenU: Usability Study of a University Room Booking Platform*
   * Collaborated with a group of six to analyze user interactions and identify usability challenges
 

@@ -8,6 +8,8 @@ date: 2024-01-01
 location: "Toronto, ON, Canada"
 ---
 
+Course link: [UTSC CSCA48](https://utsc.calendar.utoronto.ca/course/csca48h3)
+
 Served as TA and Head TA across multiple terms:
 
 - Winter 2024
