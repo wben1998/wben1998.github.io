@@ -39,8 +39,8 @@ Teaching experience
 ======
 * **Teaching Assistant, University of Toronto** (Jan 2024 – Present)
   * CSCA48: Winter 2024; Summer 2024 (Head TA); Winter 2025; Summer 2025 (Head TA)
-  * CSCA08: Fall 2024; Fall 2025 (Head TA); Winter 2026 (Head TA)
-  * CSCB09: Winter 2025
+  * [CSCA08](https://utsc.calendar.utoronto.ca/course/csca08h3): Fall 2024; Fall 2025 (Head TA); Winter 2026 (Head TA)
+  * [CSCB09](https://utsc.calendar.utoronto.ca/course/cscb09h3): Winter 2025
   * Taught weekly tutorials and held weekly office hours
   * Graded tests and assignments for 3500+ students
   * Managed TA schedules as Head TA
