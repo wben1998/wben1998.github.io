@@ -13,5 +13,3 @@ Thank you to the URCF organizers and attendees for the opportunity to present th
 The presentation has been archived in TSpace, the University of Toronto institutional repository.
 
 Permanent URL: [https://hdl.handle.net/1807/152029](https://hdl.handle.net/1807/152029)
-
-This archive link can be used in CVs, portfolios, and graduate school or employment applications.
