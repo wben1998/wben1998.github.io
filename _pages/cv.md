@@ -51,6 +51,10 @@ Teaching experience
 
 Research and scholarly activities
 ======
+* **[UTSC Undergraduate Research & Creative Forum (URCF) (2026)](https://hdl.handle.net/1807/152029)**
+  * *VenU: Unified Room Booking App*
+  * Archived in TSpace (University of Toronto institutional repository) with a permanent URL
+
 * **[UTSC Undergraduate Research Symposium (2025)](https://www.utsc.utoronto.ca/cms/events/cms-research-symposium-f25)**
   * *VenU: Usability Study of a University Room Booking Platform*
   * Collaborated with a group of six to analyze user interactions and identify usability challenges
@@ -90,7 +94,7 @@ Skills
 
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
+  <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   

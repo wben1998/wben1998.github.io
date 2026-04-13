@@ -21,7 +21,7 @@ Responsibilities included tutorials, office hours, grading, TA coordination, and
 
 ## Teaching materials showcase (CSCA48)
 
-Created and delivered course support materials for CSCA48, including tutorials and instructional slide decks.
+Created and delivered course support materials for CSCA48, including tutorials slide decks.
 
 - [Week 2 Tutorial: Introduction to C](https://docs.google.com/presentation/d/1F8K21VT9dVPo-wU2uiv_--nUTGosLpZUHRZTXlrruPI/edit?usp=sharing)
 - [Week 3 Tutorial: Memory Model](https://docs.google.com/presentation/d/1cM3np7bmFUAnV7cAaBfewLT3ITAshKokeB_ZkS78U_c/edit?usp=sharing)
