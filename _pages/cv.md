@@ -8,8 +8,6 @@ author_profile: true
 {% include base_path %}
 
 <a href="{{ base_path }}/files/Ben-J-Wang-CV.pdf" target="_blank" rel="noopener">Download CV as PDF</a>
-<br>
-<a href="{{ base_path }}/files/Ben-J-Wang-Resume.pdf" target="_blank" rel="noopener">Download Resume as PDF</a>
 
 Education
 ======
