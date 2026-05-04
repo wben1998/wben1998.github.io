@@ -1,7 +1,7 @@
 ---
 title: "Acton Institute of Computer Science — Registration Portal"
 excerpt: "Built a registration portal supporting 100+ users with React, TypeScript, and Firestore."
-collection: portfolio
+collection: projects
 date: 2023-08-05
 ---
 

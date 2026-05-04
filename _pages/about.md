@@ -18,4 +18,4 @@ My current work focuses on:
 
 Recent highlights include a usability study presented at the UTSC Undergraduate Research Symposium, open-source contribution work in Apache Superset, and internship experience in both software development and quality assurance.
 
-Please see my [CV](/cv/), [Resume](/resume/), and [Portfolio](/portfolio/) for details.
+Please see my [CV](/cv/), [Resume](/resume/), and [Projects](/projects/) for details.

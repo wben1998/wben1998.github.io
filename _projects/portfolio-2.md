@@ -1,7 +1,7 @@
 ---
 title: "Campus Compass — Full-Stack Web Application"
 excerpt: "Built features for a mobile-first campus platform using React, Node.js, and Supabase."
-collection: portfolio
+collection: projects
 date: 2025-08-19
 ---
 
