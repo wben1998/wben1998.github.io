@@ -3,18 +3,18 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
 
 <a href="{{ base_path }}/files/Ben-J-Wang-CV.pdf" target="_blank" rel="noopener">Download CV as PDF</a>
+<br>
+<a href="{{ base_path }}/files/Ben-J-Wang-Resume.pdf" target="_blank" rel="noopener">Download Resume as PDF</a>
 
 Education
 ======
 * **University of Toronto** — Honours Bachelor of Science (HBSc), Computer Science (Co-op) & Statistics
-  * Sep 2021 – Present
+  * Sep 2021 – Apr 2026
 
 Awards
 ======
@@ -22,26 +22,11 @@ Awards
 * Department of CMS UTSC Contributions Award: CSCA48 (Winter 2024)
 * Department of CMS UTSC Contributions Award: STAB52 (Summer 2023)
 
-Industry experience
-======
-* **WinMagic Corp — Junior Developer Intern** (May 2024 – Aug 2024; May 2025 – Aug 2025)
-  * Implemented software features in C#, React, and ASP.NET MVC
-  * Participated in architecture and system design discussions
-  * Debugged application issues and resolved user-reported bugs
-  * Documented development changes using Jira, GitHub, and Perforce
-  * Collaborated with developers, testers, and product managers
-
-* **Doxim — QA Analyst Intern** (Jan 2025 – Apr 2025)
-  * Updated and maintained QA test cases under senior guidance
-  * Built and maintained 150+ JMeter automated tests
-  * Executed automated and manual tests; tracked and reported issues
-  * Produced QA test reports and contributed to quality planning
-
 Teaching experience
 ======
-* **Teaching Assistant, University of Toronto** (Jan 2024 – Present)
-  * [CSCA48](https://utsc.calendar.utoronto.ca/course/csca48h3): Winter 2024; Summer 2024; Winter 2025; Summer 2025
-  * [CSCA08](https://utsc.calendar.utoronto.ca/course/csca08h3): Fall 2024; Fall 2025; Winter 2026
+* **Teaching Assistant, University of Toronto** (Jan 2024 – Apr 2026)
+  * [CSCA48](https://utsc.calendar.utoronto.ca/course/csca48h3): Winter 2024; Summer 2024 (Head TA); Winter 2025; Summer 2025 (Head TA)
+  * [CSCA08](https://utsc.calendar.utoronto.ca/course/csca08h3): Fall 2024; Fall 2025 (Head TA); Winter 2026 (Head TA)
   * [CSCB09](https://utsc.calendar.utoronto.ca/course/cscb09h3): Winter 2025
   * Taught weekly tutorials and held weekly office hours
   * Graded tests and assignments for 3500+ students
@@ -82,14 +67,29 @@ Projects
 
 Academic leadership
 ======
-* **AMACSS — Director of Computer Science** (Oct 2025 – Present)
+* **AMACSS — Director of Computer Science** (Oct 2025 – Apr 2026)
   * Managed teams of course representatives to run academic review seminars
   * Coordinated with instructors to align seminar content with coursework
 
+Industry experience
+======
+* **WinMagic Corp — Junior Developer Intern** (May 2024 – Aug 2024; May 2025 – Aug 2025)
+  * Implemented software features in C#, React, and ASP.NET MVC
+  * Participated in architecture and system design discussions
+  * Debugged application issues and resolved user-reported bugs
+  * Documented development changes using Jira, GitHub, and Perforce
+  * Collaborated with developers, testers, and product managers
+
+* **Doxim — QA Analyst Intern** (Jan 2025 – Apr 2025)
+  * Updated and maintained QA test cases under senior guidance
+  * Built and maintained 150+ JMeter automated tests
+  * Executed automated and manual tests; tracked and reported issues
+  * Produced QA test reports and contributed to quality planning
+
 Skills
 ======
-* **Programming:** Java, TypeScript, React, C, C#, Python, R, HTML, CSS, LaTeX
-* **Tools & technologies:** Git/GitHub, Jira, Android Studio, RStudio, VS Code, JUnit, Logisim, Visual Studio, Firebase, JMeter, Supabase
+* **Programming languages:** Java, TypeScript, React, C, C#, Python, R, HTML, CSS, LaTeX
+* **Tools and technologies:** Git/GitHub, Jira, Android Studio, RStudio, VS Code, JUnit, Logisim, Visual Studio, Firebase, JMeter, Supabase
 * **Operating systems:** Linux, Windows, macOS, Android, iOS
 
 Talks
@@ -106,4 +106,4 @@ Teaching
   
 Service and leadership
 ======
-* AMACSS Director of Computer Science (Oct 2025 – Present)
+* AMACSS Director of Computer Science (Oct 2025 – Apr 2026)
