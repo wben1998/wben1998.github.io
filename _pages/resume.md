@@ -43,7 +43,7 @@ Experience
 Projects
 ======
 * **VenU — Unified Room Booking Platform** (Research Project) (May 2025 – Present, WIP)
-  * [Prototype](https://figma.com) / [Publication](https://hdl.handle.net/1807/152029)
+  * [Prototype](https://www.figma.com/proto/rmdr1KLnbBGhLaHx1KgaZN/Primary-Design-File?page-id=67%3A627&node-id=112-45&viewport=53%2C147%2C0.14&t=lLKZMN78peNoREla-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=112%3A45&show-proto-sidebar=1) / [Publication](https://hdl.handle.net/1807/152029)
   * Designed a unified platform to centralize fragmented university room booking systems across multiple services
   * Conducted usability analysis to identify pain points in existing booking workflows and improve accessibility
   * Developed interactive UI prototype using Figma to demonstrate streamlined booking experience
