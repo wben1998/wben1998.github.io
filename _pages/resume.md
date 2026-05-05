@@ -23,7 +23,7 @@ Technical skills
 * **Languages:** Python, Java, C, C#, TypeScript, R, Dart
 * **Frameworks:** React, Node.js, ASP.NET MVC, Flutter
 * **AI/ML:** PyTorch, Neural Networks, CNNs, Tensors
-* **Tools:** Git/GitHub, Jira, JMeter, Supabase, Firebase
+* **Tools:** Git/GitHub, Jira, JMeter, Supabase, Firebase, Figma
 * **Other:** REST APIs, Automated Testing, Linux
 
 Experience
@@ -42,6 +42,13 @@ Experience
 
 Projects
 ======
+* **VenU — Unified Room Booking Platform** (Research Project) (May 2025 – Present)
+  * [Prototype](https://figma.com) / [Publication](https://hdl.handle.net/1807/152029)
+  * Designed a unified platform to centralize fragmented university room booking systems across multiple services
+  * Conducted usability analysis to identify pain points in existing booking workflows and improve accessibility
+  * Developed interactive UI prototype using Figma to demonstrate streamlined booking experience
+  * Collaborated in a team of 6 to research, design, and present findings at an undergraduate research symposium
+
 * **Campus Compass — Full-Stack Application** (May 2025 – Aug 2025)
   * [Source Code](https://github.com/UTSC-CSCC01-Software-Engineering-I/CampusCompass)
   * Built a platform for managing university events and recruitment posts

@@ -17,8 +17,7 @@ Education
 Awards
 ======
 * Department of CMS UTSC Teaching Assistant Award for CSCA48 (2024, Value: $200)
-* Department of CMS UTSC Contributions Award: CSCA48 (Winter 2024)
-* Department of CMS UTSC Contributions Award: STAB52 (Summer 2023)
+* Department of CMS UTSC Contributions Award: CSCA48 (Winter 2024), STAB52 (Summer 2023)
 
 Teaching experience
 ======
@@ -26,11 +25,11 @@ Teaching experience
   * [CSCA48](https://utsc.calendar.utoronto.ca/course/csca48h3): Winter 2024; Summer 2024 (Head TA); Winter 2025; Summer 2025 (Head TA)
   * [CSCA08](https://utsc.calendar.utoronto.ca/course/csca08h3): Fall 2024; Fall 2025 (Head TA); Winter 2026 (Head TA)
   * [CSCB09](https://utsc.calendar.utoronto.ca/course/cscb09h3): Winter 2025
-  * Taught weekly tutorials and held weekly office hours
+  * Taught weekly tutorials; held weekly office hours
   * Graded tests and assignments for 3500+ students
+  * Provided student support via Piazza
   * Managed TA schedules as Head TA
   * Maintained and operated automarking tools
-  * Provided student support via Piazza
 
 Research and scholarly activities
 ======
@@ -54,8 +53,15 @@ Projects
 * **Campus Compass — Full-Stack Web Application** (May 2025 – Aug 2025)
   * [Source Code](https://github.com/UTSC-CSCC01-Software-Engineering-I/CampusCompass)
   * Followed Scrum, branching best practices, and industry-standard workflows
-  * Developed features for a mobile-first platform for UofT clubs and recruitment
+  * Developed features for a mobile-first platform centralizing UofT club events, recruitment posts, and recommendations
   * Contributed to the React frontend, Node.js backend, and Supabase database
+
+* **VenU — Unified Room Booking Platform** (Research Project) (May 2025 – Present)
+  * [Prototype](https://figma.com) / [Publication](https://hdl.handle.net/1807/152029)
+  * Designed a unified platform to centralize fragmented university room booking systems across multiple services
+  * Conducted usability analysis to identify pain points in existing booking workflows and improve accessibility
+  * Developed interactive UI prototype using Figma to demonstrate streamlined booking experience
+  * Collaborated in a team of 6 to research, design, and present findings at an undergraduate research symposium
 
 * **Apache Superset — Open Source Contribution** (Oct 2025 – Nov 2025)
   * [Pull Request](https://github.com/apache/superset/pull/36281) / [Issue](https://github.com/apache/superset/issues/35141)

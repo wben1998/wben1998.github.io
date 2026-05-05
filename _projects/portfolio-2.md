@@ -1,6 +1,6 @@
 ---
 title: "Campus Compass — Full-Stack Web Application"
-excerpt: "Built features for a mobile-first campus platform using React, Node.js, and Supabase."
+excerpt: "Built features for a mobile-first platform centralizing UofT club events, recruitment posts, and recommendations."
 collection: projects
 date: 2025-08-19
 ---
@@ -11,5 +11,6 @@ Developed features for a mobile-first platform focused on UofT club events, recr
 
 Key contributions:
 
+- Followed Scrum, branching best practices, and industry-standard workflows
 - Contributed to the React frontend, Node.js backend, and Supabase database integration
-- Implemented features following Scrum and modern branching workflows
+- Implemented features following modern development practices and modular architecture
