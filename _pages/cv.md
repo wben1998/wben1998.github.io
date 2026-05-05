@@ -56,7 +56,7 @@ Projects
   * Developed features for a mobile-first platform centralizing UofT club events, recruitment posts, and recommendations
   * Contributed to the React frontend, Node.js backend, and Supabase database
 
-* **VenU — Unified Room Booking Platform** (Research Project) (May 2025 – Present)
+* **VenU — Unified Room Booking Platform** (Research Project) (May 2025 – Present, WIP)
   * [Prototype](https://figma.com) / [Publication](https://hdl.handle.net/1807/152029)
   * Designed a unified platform to centralize fragmented university room booking systems across multiple services
   * Conducted usability analysis to identify pain points in existing booking workflows and improve accessibility
