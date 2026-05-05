@@ -2,6 +2,7 @@
 title: "VenU — Unified Room Booking Platform (In Progress)"
 excerpt: "Research project designing a unified platform to centralize university room booking systems with usability analysis and interactive prototype."
 collection: projects
+date: 2025-05-12
 ---
 
 Designed a unified platform to centralize fragmented university room booking systems across multiple services.
