@@ -33,7 +33,7 @@ Experience
   * Built responsive UI components and integrated with RESTful APIs
   * Debugged production issues, analyzed logs, and improved system stability
   * Participated in system design discussions focused on scalability and performance
-  * Collaborated with cross-functional teams in Agile workflows
+  * Collaborated with cross-functional teams in Agile and Scrum workflows
 
 * **Doxim — QA Analyst Intern** (Jan 2025 – Apr 2025)
   * Built and maintained 150+ automated JMeter test cases for performance and regression testing
@@ -46,7 +46,7 @@ Projects
   * [Prototype](https://www.figma.com/proto/rmdr1KLnbBGhLaHx1KgaZN/Primary-Design-File?page-id=67%3A627&node-id=112-45&viewport=53%2C147%2C0.14&t=lLKZMN78peNoREla-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=112%3A45&show-proto-sidebar=1) / [Publication](https://hdl.handle.net/1807/152029)
   * Designed a unified platform to centralize fragmented university room booking systems across multiple services
   * Conducted usability analysis to identify pain points in existing booking workflows and improve accessibility
-  * Developed interactive UI prototype using Figma to demonstrate streamlined booking experience
+  * Developed interactive UI/UX prototype using Figma to demonstrate streamlined booking experience
   * Collaborated in a team of 6 to research, design, and present findings at an undergraduate research symposium
 
 * **Campus Compass — Full-Stack Application** (May 2025 – Aug 2025)
@@ -77,7 +77,8 @@ Teaching and leadership
 
 Certifications
 ======
-* PyTorch for Deep Learning Professional Certificate (In Progress)
+* Google Cybersecurity Professional Certificate (In Progress)
+* PyTorch for Deep Learning Professional Certificate (Pending Certificate)
 * AI Literacy
 * Cybersecurity Fundamentals
 * Project Management Fundamentals
