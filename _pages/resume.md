@@ -11,20 +11,24 @@ author_profile: true
 
 Summary
 ======
-Computer Science and Statistics student with industry experience in full-stack and mobile development, and growing specialization in AI/ML. Experienced in building scalable applications, REST APIs, and automated testing systems. Currently completing the PyTorch for Deep Learning Professional Certificate.
+Computer Science and Statistics student with industry experience in full-stack and mobile development, and
+growing specialization in AI/ML. Experienced in building scalable applications, REST APIs, and automated
+testing systems. Recently completed the PyTorch for Deep Learning Professional Certificate. Currently
+completing the Google Cybersecurity Professional Certificate.
 
 Education
 ======
 * **University of Toronto** — Honours Bachelor of Science (HBSc), Computer Science (Co-op) & Statistics
   * Sep 2021 – Apr 2026
+  * Convocation: June 2026
 
 Technical skills
 ======
-* **Languages:** Python, Java, C, C#, TypeScript, R, Dart
+* **Languages:** Python, Java, C, C#, TypeScript, R, Dart, HTML, CSS, JavaScript, SQL
 * **Frameworks:** React, Node.js, ASP.NET MVC, Flutter
 * **AI/ML:** PyTorch, Neural Networks, CNNs, Tensors
-* **Tools:** Git/GitHub, Jira, JMeter, Supabase, Firebase, Figma
-* **Other:** REST APIs, Automated Testing, Linux
+* **Tools:** Git/GitHub, Jira, JMeter, Supabase, Firebase, Figma, Docker, Postman
+* **Other:** REST APIs, Automated Testing, Linux, Windows, MacOS
 
 Experience
 ======
@@ -36,7 +40,7 @@ Experience
   * Collaborated with cross-functional teams in Agile and Scrum workflows
 
 * **Doxim — QA Analyst Intern** (Jan 2025 – Apr 2025)
-  * Built and maintained 150+ automated JMeter test cases for performance and regression testing
+  * Built and maintained 150+ automated JMeter API test cases for performance and regression testing
   * Identified and reported defects, improving product quality
   * Contributed to QA planning and release validation processes
 
