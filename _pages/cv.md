@@ -16,7 +16,7 @@ Education
 
 Awards
 ======
-* Department of CMS UTSC Teaching Assistant Award for CSCA48 (2024, Value: $200)
+* Department of CMS UTSC Teaching Assistant Award for CSCA48 (2024, Value: $300)
 * Department of CMS UTSC Contributions Award: CSCA48 (Winter 2024), STAB52 (Summer 2023)
 
 Teaching experience
