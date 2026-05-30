@@ -11,10 +11,11 @@ author_profile: true
 
 Summary
 ======
-Computer Science and Statistics student with industry experience in full-stack and mobile development, and
-growing specialization in AI/ML. Experienced in building scalable applications, REST APIs, and automated
-testing systems. Recently completed the PyTorch for Deep Learning Professional Certificate. Currently
-completing the Google Cybersecurity Professional Certificate.
+Computer Science and Statistics graduate from the University of Toronto with industry experience in full-stack
+and mobile development, and growing specialization in AI/ML. Experienced in building scalable applications,
+REST APIs, and automated testing systems. Recently completed the PyTorch for Deep Learning Professional
+Certificate and the Google Cybersecurity Professional Certificate. Currently completing the
+Google Cloud Cybersecurity Professional Certificate.
 
 Education
 ======
@@ -27,7 +28,7 @@ Technical skills
 * **Languages:** Python, Java, C, C#, TypeScript, R, Dart, HTML, CSS, JavaScript, SQL
 * **Frameworks:** React, Node.js, ASP.NET MVC, Flutter
 * **AI/ML:** PyTorch, Neural Networks, CNNs, Tensors
-* **Tools:** Git/GitHub, Jira, JMeter, Supabase, Firebase, Figma, Docker, Postman
+* **Tools:** Git/GitHub, Jira, JMeter, Supabase, Firebase, Figma, Docker, Postman, Microsoft Office (Word, Excel, PowerPoint)
 * **Other:** REST APIs, Automated Testing, Linux, Windows, MacOS
 
 Experience
@@ -75,18 +76,18 @@ Teaching and leadership
 * **Teaching Assistant (Head TA), University of Toronto** (Jan 2024 – Apr 2026)
   * Led teams of up to 10+ TAs and supported 1000+ students
   * Delivered tutorials, held office hours, and maintained automarking systems
+  * Received the UTSC Department Wide Teaching Assistant Award for CSCA48 in 2024-2025
 
 * **Director of Computer Science, AMACSS** (Oct 2025 – Apr 2026)
   * Organized academic review sessions and coordinated with faculty
 
 Certifications
 ======
-* Google Cybersecurity Professional Certificate (In Progress)
+* [View full list of certificates]({{ base_path }}/certificates/)
+* Google Cybersecurity Professional Certificate (<a href="https://coursera.org/share/234b7de5fb33e58ee50b1c7e8285f689" target="_blank" rel="noopener">(Certificate)</a>)
+* Google AI Professional Certificate (<a href="https://coursera.org/share/72b3f2cfa7d74c88f28d57bdd4a06b2a" target="_blank" rel="noopener">(Certificate)</a>)
 * PyTorch for Deep Learning Professional Certificate (Pending Certificate)
-* AI Literacy
-* Cybersecurity Fundamentals
-* Project Management Fundamentals
-* User Experience Design Fundamentals
+* IBM Skillshare: AI Literacy, Cybersecurity Fundamentals, Project Management Fundamentals, User Experience Design Fundamentals
 
 Awards
 ======
