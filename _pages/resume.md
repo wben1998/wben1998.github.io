@@ -84,8 +84,8 @@ Teaching and leadership
 Certifications
 ======
 * [View full list of certificates]({{ base_path }}/certificates/)
-* Google Cybersecurity Professional Certificate (<a href="https://coursera.org/share/234b7de5fb33e58ee50b1c7e8285f689" target="_blank" rel="noopener">(Certificate)</a>)
-* Google AI Professional Certificate (<a href="https://coursera.org/share/72b3f2cfa7d74c88f28d57bdd4a06b2a" target="_blank" rel="noopener">(Certificate)</a>)
+* Google Cybersecurity Professional Certificate (<a href="https://coursera.org/share/234b7de5fb33e58ee50b1c7e8285f689" target="_blank" rel="noopener">Certificate</a>)
+* Google AI Professional Certificate (<a href="https://coursera.org/share/72b3f2cfa7d74c88f28d57bdd4a06b2a" target="_blank" rel="noopener">Certificate</a>)
 * PyTorch for Deep Learning Professional Certificate (Pending Certificate)
 * IBM Skillshare: AI Literacy, Cybersecurity Fundamentals, Project Management Fundamentals, User Experience Design Fundamentals
 

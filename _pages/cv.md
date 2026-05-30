@@ -45,7 +45,7 @@ Projects
 ======
 * **Acton Institute of Computer Science — Registration Portal** (Jun 2023 – Aug 2023)
   * [Source Code](https://github.com/wben1998/AICS-Registration-Portal) / [Deployed Site](https://actoninstituteofcs.netlify.app/)
-  * Built an online registration portal supporting 100+ users
+  * Built an online registration portal supporting 300+ users
   * Performed code reviews and used GitHub for version control and PR workflows
   * Followed a Scrum development process based on client feedback
   * Implemented with React, TypeScript, and Google Firestore
