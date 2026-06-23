@@ -22,7 +22,6 @@ Education
 * **University of Toronto** — Honours Bachelor of Science (HBSc), Computer Science (Co-op) & Statistics
   * Sep 2021 – Apr 2026
   * Degree Conferred: June 2026
-  * Convocation: June 2026
 
 Technical skills
 ======
