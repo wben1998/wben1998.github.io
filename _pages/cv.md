@@ -77,24 +77,39 @@ Academic leadership
 
 Industry experience
 ======
-* **WinMagic Corp — Junior Developer Intern** (May 2024 – Aug 2024; May 2025 – Aug 2025)
-  * Implemented software features in C#, React, and ASP.NET MVC
-  * Participated in architecture and system design discussions
-  * Debugged application issues and resolved user-reported bugs
-  * Documented development changes using Jira, GitHub, and Perforce
-  * Collaborated with developers, testers, and product managers
+* **WinMagic Corp — Junior Mobile App Developer Intern** (May 2025 – Aug 2025)
+  * Developed and maintained mobile application features using Flutter and Dart for WinMagic's MagicEndpoint platform
+  * Built responsive UI components and integrated RESTful APIs to support secure communication with backend services
+  * Investigated production issues through log analysis, debugging, and root-cause analysis, improving application reliability and user experience
+  * Contributed to architectural discussions and feature planning focused on scalability, maintainability, and performance
+  * Created and maintained technical documentation and participated in Agile/Scrum meetings throughout the development lifecycle
+  * Collaborated with developers, QA analysts, designers, and product managers to deliver features and resolve issues
 
 * **Doxim — QA Analyst Intern** (Jan 2025 – Apr 2025)
-  * Updated and maintained QA test cases under senior guidance
-  * Built and maintained 150+ JMeter automated tests
-  * Executed automated and manual tests; tracked and reported issues
-  * Produced QA test reports and contributed to quality planning
+  * Developed and maintained 150+ automated JMeter API test cases supporting regression testing efforts
+  * Executed manual and automated testing to validate application functionality, integrations, and user workflows
+  * Identified, documented, and tracked defects to improve software quality
+  * Analyzed test results and prepared reports communicating QA status
+  * Contributed to test planning, release validation, and continuous improvement of QA processes
+
+* **WinMagic Corp — Junior Software Developer Intern** (May 2024 – Aug 2024)
+  * Developed and maintained features for WinMagic's SecureDoc data encryption platform using C#, ASP.NET MVC, React, and Flutter
+  * Implemented frontend and backend functionality while following established coding standards and best practices
+  * Investigated and resolved application defects reported by users and QA teams through debugging and troubleshooting
+  * Participated in architecture and design discussions to support scalable and maintainable software solutions
+  * Documented development changes using Jira and Perforce and contributed to Agile development workflows
+  * Collaborated with cross-functional teams, including developers, testers, and product managers throughout feature development and release cycles
 
 Skills
 ======
-* **Programming languages:** Java, TypeScript, React, C, C#, Python, R, HTML, CSS, LaTeX
-* **Tools and technologies:** Git/GitHub, Jira, Android Studio, RStudio, VS Code, JUnit, Logisim, Visual Studio, Firebase, JMeter, Supabase
-* **Operating systems:** Linux, Windows, macOS, Android, iOS
+* **Programming languages:** Java, TypeScript, React, C, C#, Python, R, Dart, HTML, CSS, JavaScript, SQL, LaTeX
+* **Frameworks:** React, Node.js, ASP.NET MVC, Flutter, REST APIs, Automated Testing
+* **AI/ML:** PyTorch, Neural Networks, CNNs, Tensors
+* **Databases:** Supabase, Firebase
+* **Tools and technologies:** Git/GitHub, Jira, JMeter, Figma, Docker, Postman, Microsoft Office (Word, Excel, PowerPoint), VS Code, Visual Studio
+* **Google Suite:** Gmail, Google Docs, Google Slides, Google Sheets, Google Forms, Google Drawings, Google Drive, Google Meet, Google Calendar, Google Sites
+* **Operating systems:** Linux, Windows, macOS, Android, iOS, ChromeOS
+* **Cybersecurity:** Computer Security Incident Management, Cyber Threat Intelligence, Endpoint Detection and Response, Hardening, Vulnerability Management, Incident Response, Security Awareness, Network Protocols, Network Security, TCP/IP, DNS, VPNs
 
 Talks
 ======
