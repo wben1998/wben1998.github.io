@@ -12,7 +12,7 @@ author_profile: true
 Summary
 ======
 Computer Science and Statistics graduate from the University of Toronto with industry experience in full-stack
-and mobile development, and growing specialization in AI/ML. Experienced in building scalable applications,
+and mobile development, and growing specialization in AI/ML and Cybersecurity/IT. Experienced in building scalable applications,
 REST APIs, and automated testing systems. Recently completed the PyTorch for Deep Learning Professional
 Certificate and the Google Cybersecurity Professional Certificate. Currently completing the
 Google Cloud Cybersecurity Professional Certificate.
