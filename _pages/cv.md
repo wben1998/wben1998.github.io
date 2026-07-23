@@ -107,7 +107,6 @@ Skills
 * **AI/ML:** PyTorch, Neural Networks, CNNs, Tensors
 * **Databases:** Supabase, Firebase
 * **Tools and technologies:** Git/GitHub, Jira, JMeter, Figma, Docker, Postman, Microsoft Office (Word, Excel, PowerPoint), VS Code, Visual Studio
-* **Google Suite:** Gmail, Google Docs, Google Slides, Google Sheets, Google Forms, Google Drawings, Google Drive, Google Meet, Google Calendar, Google Sites
 * **Operating systems:** Linux, Windows, macOS, Android, iOS, ChromeOS
 * **Cybersecurity:** Computer Security Incident Management, Cyber Threat Intelligence, Endpoint Detection and Response, Hardening, Vulnerability Management, Incident Response, Security Awareness, Network Protocols, Network Security, TCP/IP, DNS, VPNs
 
