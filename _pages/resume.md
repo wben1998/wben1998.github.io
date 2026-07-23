@@ -11,8 +11,8 @@ author_profile: true
 
 Summary
 ======
-Computer Science and Statistics graduate from the University of Toronto with industry experience in full-stack
-and mobile development, and growing specialization in AI/ML and Cybersecurity/IT. Experienced in building scalable applications,
+Holds a Bachelor’s degree in Computer Science and Statistics graduate from the University of Toronto with industry experience in full-stack
+and mobile development, and growing specialization in AI/ML and Cybersecurity. Experienced in building scalable applications,
 REST APIs, and automated testing systems. Recently completed the PyTorch for Deep Learning Professional
 Certificate and the Google Cybersecurity Professional Certificate. Currently completing the
 Google Cloud Cybersecurity Professional Certificate.
@@ -88,7 +88,7 @@ Projects
 Teaching and leadership
 ======
 * **Teaching Assistant (Head TA), University of Toronto** (Jan 2024 – Apr 2026)
-  * Led teams of up to 15+ TAs and supported 1000+ students
+  * Led teams of up to 15+ TAs and supported 3500+ students
   * Delivered tutorials, held office hours, and maintained automarking systems
   * Received the UTSC Department Wide Teaching Assistant Award for CSCA48 in 2024-2025
 
