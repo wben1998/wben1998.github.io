@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I hold a Bachelor's in Computer Science and Statistics from the University of Toronto, with teaching, software development, and QA experience across academic and industry settings, and a growing specialization in AI/ML.
+I am currently an Embedded Software Engineer at United Launch Alliance (ULA). I got my Bachelor's in Computer Science and Statistics from the University of Toronto, with teaching, software development, and QA experience across academic and industry settings, and a growing specialization in AI/ML.
 
 My current work focuses on:
 

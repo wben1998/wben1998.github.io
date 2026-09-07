@@ -77,6 +77,8 @@ Academic leadership
 
 Industry experience
 ======
+* **United Launch Alliance (ULA) — Enbedded Software Engineer** (August 2026 – Present)
+
 * **WinMagic Corp — Junior Mobile App Developer Intern** (May 2025 – Aug 2025)
   * Developed and maintained mobile application features using Flutter and Dart for WinMagic's MagicEndpoint platform
   * Built responsive UI components and integrated RESTful APIs to support secure communication with backend services

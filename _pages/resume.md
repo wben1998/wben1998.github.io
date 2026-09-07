@@ -11,11 +11,9 @@ author_profile: true
 
 Summary
 ======
-Holds a Bachelor’s degree in Computer Science and Statistics graduate from the University of Toronto with industry experience in full-stack
-and mobile development, and growing specialization in AI/ML and Cybersecurity. Experienced in building scalable applications,
-REST APIs, and automated testing systems. Recently completed the PyTorch for Deep Learning Professional
-Certificate and the Google Cybersecurity Professional Certificate. Currently completing the
-Google Cloud Cybersecurity Professional Certificate.
+Currently an embedded software engineer at United Launch Alliance (ULA). Holds a Bachelor’s degree in Computer Science and
+Statistics from the University of Toronto with industry experience in full-stack and mobile development, and growing specialization
+in AI/ML and Cybersecurity. Experienced in building scalable applications, REST APIs, and automated testing systems.
 
 Education
 ======
@@ -34,6 +32,9 @@ Technical skills
 
 Experience
 ======
+
+* **United Launch Alliance (ULA) — Enbedded Software Engineer** (August 2026 – Present)
+* 
 * **WinMagic Corp — Junior Mobile App Developer Intern** (May 2025 – Aug 2025)
   * Developed and maintained mobile application features using Flutter and Dart for WinMagic's MagicEndpoint platform
   * Built responsive UI components and integrated RESTful APIs to support secure communication with backend services
